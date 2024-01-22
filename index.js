@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["👑 I am RTX","Spotify","Youtube","SUBSCRIBE❤️","THANKS 🌇"];
+const statusMessages = ["**BOT OFICIAL KIT STORE**","13.500 V-BUCKS POR APENAS R$90,00","ABRA UM TICKET PARA SUPORTE","];
 
 
 let currentIndex = 0;
